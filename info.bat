@@ -1,6 +1,7 @@
 @echo off
 title NETINFO
 mode con: cols=60 lines=20
+chcp 65001 >nul
 color 0A
 
 :main
